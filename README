@@ -1,0 +1,9 @@
+Recipe
+
+git clone https://github.com/apsallid/LAMS
+#Open Makefile and correct the path to your directory
+#Compile
+make lams
+#Put in the same directory the data and run 
+./lams
+
